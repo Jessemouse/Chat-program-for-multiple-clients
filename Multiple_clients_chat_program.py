@@ -1,4 +1,4 @@
-#Code skeleton provided by Ragnar Nohre, Sweden, Jönköping University
+# Code skeleton provided by Ragnar Nohre
 # Multi-client chat server using:
 # Single-thread
 # Listening on all clients simultaneously.
